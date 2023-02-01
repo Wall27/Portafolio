@@ -12,7 +12,7 @@ nav,a{
 }
 
 section{
-    margin: 3rem;;
+    margin: 3rem;
 }
 
 #lateral{
@@ -78,4 +78,8 @@ h2{
     font-family: 'Times New Roman', Times, serif;
     padding: 2%;
     color: black;
+}
+
+#borde{
+    border: groove;
 }
